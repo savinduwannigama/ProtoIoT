@@ -1,3 +1,3 @@
-Please follow the following long to access the dataset;
+Per-flow packet traces of ten IoT devices can be found in the following links.
 
-- [Link to the packet capture dataset](https://www2.ee.unsw.edu.au/~hhabibi/data/)
+- [AmazonEcho.zip](https://www2.ee.unsw.edu.au/~hhabibi/data/AmazonEcho.zip)
