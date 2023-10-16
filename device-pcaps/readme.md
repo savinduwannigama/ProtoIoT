@@ -1,3 +1,3 @@
-Device pcaps are too large to be included in the repo. Please follow the following long to access the dataset;
+Please follow the following long to access the dataset;
 
-<link to the dataset>
+- [Link to the packet capture dataset](https://www2.ee.unsw.edu.au/~hhabibi/data/)
