@@ -2,7 +2,7 @@
   "info": {
     "version": 1,
     "last-update": "2022-10-17",
-    "namespace": "cyamast:tls",
+    "namespace": "unsw:tls",
     "abbreviation": "tls",
     "standard-name": "transport layer security",
     "description": "provides communications security over the internet",

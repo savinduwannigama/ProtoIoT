@@ -1,0 +1,2 @@
+srcMac| dstMac| ethType| srcIp| dstIp| ipProto| srcPort| dstPort,,
+null|null|0x0800|149.171.37.190|192.168.1.156|17|1900|1900,,

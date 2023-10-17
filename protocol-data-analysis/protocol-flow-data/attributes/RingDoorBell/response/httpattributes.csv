@@ -1,0 +1,4 @@
+srcMac,,, dstMac,,, ethType,,, srcIp,,, dstIp,,, ipProto,,, srcPort,,, dstPort,,,server,,,response-version,,,response phrase,,,status code,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.205.153.193,,,6,,,49478,,,80,,,nginx,,,HTTP/1.1,,,OK,,,200,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.205.153.193,,,6,,,58447,,,80,,,nginx,,,HTTP/1.1,,,OK,,,200,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.5.51.114,,,6,,,53939,,,80,,,nginx,,,HTTP/1.1,,,OK,,,200,,

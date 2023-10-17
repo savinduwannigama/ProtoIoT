@@ -1,0 +1,688 @@
+srcMac| dstMac| ethType| srcIp| dstIp| ipProto| srcPort| dstPort|cache control|server|method|unique service name|notification sub type|request version|search type|notification type|search target|uri,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40402|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36023,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48031,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40668|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37369,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50387,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48071,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36078,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|57320|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40947,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52918,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37461,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|51752,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|38771,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40655|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36157,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4751|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4752|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4753|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4754|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4755|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4756|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4758|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|4759|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|46745|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49405,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37432,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52726,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40735,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|38478,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|59922|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50135,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|58982|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|38565,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52822,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37261,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|57535|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44109|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|38507,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|39851,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50787,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49784,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47174,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48490,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59190,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|49485|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36464,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48413,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49745,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|50341|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60271,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50884,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47289,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49814,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|36154|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|54244,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37599,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50596,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50589,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|51892,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|48002|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|37251|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|37388|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50643,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59047,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60045,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|54295|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49607,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48309,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50600,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42730,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42706,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54754,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|39085,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54694,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52082,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|42618|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53506,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42826,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52218,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54859,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|39230,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|41673|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|39294,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40241,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52220,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53483,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43829,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43828,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42535,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|49904|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43832,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40245|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|41198,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43907,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|47646|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|48718|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53344,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|41357,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42677,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53278,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|41818,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|60848,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40594,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52616,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40625,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37022,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53981,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|38332,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|41977,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52699,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|51366,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37040,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50077,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|37090,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42937,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40310,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54986,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42994,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40330|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|51028,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52340,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52291,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53732,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|45350|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|39209|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53772,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|41781,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52491,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44976|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45760,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|56475,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55137,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45913,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|63610,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44635,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|42436|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|56613,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44559,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55203,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45857,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57875,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|63598,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43276,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55260,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|52011|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58919,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46849,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45511,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58876,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57535,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34887,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57514,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57587,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44249,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|38704|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34980,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58925,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|33640,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|56334,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|60698|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44383,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|56346,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55091,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|41209|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|37982|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43566,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|58489|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43732,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43779,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42378,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54352,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55682,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53061,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44710,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|36673|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|36546|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43339,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55313,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|40158|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42060,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42035,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|56681,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55338,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|42089,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|45046|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|35203|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54143,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54194,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.180|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59585,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58253,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|58087|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|56522|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|46802|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|46801|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44401|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44530|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60541,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35577,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46231,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35587,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45085,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57050,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60693,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|55205|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36964,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48949,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.249|17|3098|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|33003,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59675,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60624,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34366,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58331,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47305,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48624,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|42155|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|49950,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35309,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47326,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48658,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|43483|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60493,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|59270|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|45611|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36727,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|48726,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34154,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|36342|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35964,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34636,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35930,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35991,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|47009|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45336,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57391,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|59243|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|34064|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|47275|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46727,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45435,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|44109,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|45411,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|51165,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58783,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|34099|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57171,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57172,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|57083|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|48310|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|34434,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59705,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|64142,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47795,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35785,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58488,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60727,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57115,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|35918,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|47898,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59880,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46558,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46551,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46595,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44976|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::urn:schemas-upnp-org:device:WANConnectionDevice:1|ssdp:alive|HTTP/1.1|null|urn:schemas-upnp-org:device:WANConnectionDevice:1|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|53173|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|63634,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|51243,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.249|17|3128|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|52716,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|37280|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|33326|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|53151,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.177|17|1900|49152,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|53269,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|62725,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|53584,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|64221,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|64059,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|55638,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.249|17|3152|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.249|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|59881,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|56298,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|56372,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.209|17|1900|51420,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.208|17|1900|53420,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|65173,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|53173|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|52679,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|53741,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.209|17|1900|60799,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3147,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|53173|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::urn:schemas-upnp-org:device:WANConnectionDevice:1|ssdp:alive|HTTP/1.1|null|urn:schemas-upnp-org:device:WANConnectionDevice:1|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|58612|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3150|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|38297|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|49581|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.248|17|3138|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|56010|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|33021|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|39321,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|50969|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.240|192.168.1.248|17|51958|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58610,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3147,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|59701,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|54483,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.180|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.159|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|62765,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|52018|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|60571,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|62429,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|64038,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|57284,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|38519,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|38521,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54420,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|51533,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|33630|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|57415,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|50820,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3311|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|41071|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|58541,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|54735,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|55893,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|36059,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|49347,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3306,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|45762,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.248|17|3297|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|60757|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.240|192.168.1.248|17|35177|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|54675,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54095,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|38297|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58461,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3320|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|33386,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|57100|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|33342,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.248|17|3313|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|53902,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.240|192.168.1.248|17|51581|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|55244|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|61634,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|44500,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|39170,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|33837,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|45864,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|44696|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3219,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|44990,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.239|17|1900|33434,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|55255,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|34013,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.177|17|1900|49152,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|55467,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.180|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|57546,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.205|192.168.1.248|17|55915|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|59119,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|54521,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|46382,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|53424,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|37254,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|53848,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3306,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|60334,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52576,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|56080,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|60618,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|58917,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.243|17|1900|52933,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|44891,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|56619|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|49638|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3082|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|42766,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.248|17|3082|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|42823,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|53885,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.159|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|44396,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|1901,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.249|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.205|192.168.1.248|17|40003|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|57411,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|41071|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|45750,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|64769,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|39521,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50546,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57179,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|49638|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|1901,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.208|17|1900|59425,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|34690|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|40110,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|55848,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53535,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|50388,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|32956,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54844,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54724,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|54680,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60193,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|54177|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53499,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|53494,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46956,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58761,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46782,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|58512,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|36982|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|52078,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|46740|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59640,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|56395|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|57443,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.159|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|60608,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|46144,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|1901,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|59321,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36214,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3110|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|36555,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.239|17|1900|43082,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|50184,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|60382,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|60150|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|58455|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|41792|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|52977|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|42187|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|56499|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|48420|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|50338|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|41870|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3082,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3087,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|51470|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.240|17|1900|46390,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|33271|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|45563|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|56450,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|49610|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.193|17|1900|3079,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|52935|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|42266|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|54845|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|53011|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|43639|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.165|17|1900|50227,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.165|17|1900|56400,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|192.168.1.240|17|1900|47465,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|50218|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|37081|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|36982|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|46750,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|58731,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.249|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|36190|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|41832|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|34690|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|41442|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|34568,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|43036|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|55011|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.249|239.255.255.250|17|59914|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|52459|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|52501,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|47140,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.193|192.168.1.248|17|3083|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|57105|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.142|17|1900|50724,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|53410|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|38982|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|52479|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|47188|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|37729|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.165|192.168.1.249|17|50874|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.165|192.168.1.249|17|44604|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.249|239.255.255.250|17|44148|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.227|17|1900|62982,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.227|17|1900|63831,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|50184,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|56311,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|58239|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|41792|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58608,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58668,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|59472,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|42679,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.141|17|1900|65349,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|51705|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.141|17|1900|54264,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|56658,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|56400,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|37506|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|37740,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|63875,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|49165,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|58255,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54974,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|59196,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|62188,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|60708,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|54845|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::urn:schemas-upnp-org:device:WANDevice:1|ssdp:alive|HTTP/1.1|null|urn:schemas-upnp-org:device:WANDevice:1|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.141|17|1900|50875,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.165|17|1900|36154,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52709,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|34980|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|51594,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|60219,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|64404,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52466,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.141|17|1900|49916,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|43706,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54145,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|60874,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|49917,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|36673|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|62215,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|47506|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|59006|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|39015|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|64857,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.192|192.168.1.248|17|39179|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|55070|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|36155|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|58589|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|42659|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|36640|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|59434|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|57136|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|57997|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|56682,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|41442,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|49596,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|34980|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|54946|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|53728,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|42440|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.192|192.168.1.248|17|39452|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|37506|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|56053|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|51910,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54627,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|48246|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|60128|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|44215|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|58777|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52571,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|45321|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52216,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|49270|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|49379,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|60528|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.192|192.168.1.248|17|60897|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58645,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|35557|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58648,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|57412|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|49781|1900|null|null|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:byebye|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|54694|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|59234|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|47680|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|55858|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|50222|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|47038|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|51468,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.192|192.168.1.248|17|57429|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|57567|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.192|192.168.1.248|17|58695|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.192|192.168.1.248|17|32802|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|40389|1900|null|null|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:byebye|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|51150,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|59861|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58348,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|59101|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|40965|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|34441|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|54432,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|58652|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|60891,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|43449|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|36158|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|37196|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|58731|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|46699|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|44648|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|48566|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|63594,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|42893|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|54696,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|50177,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|40314|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|60242|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|54781|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|63188,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|61682,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|59168|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|35561|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|45578,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|35003|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|57188,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|42509,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|40538|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.223|192.168.1.248|17|3082|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.240|17|1900|57443,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|49498,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|58252,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52706,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|39505|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|58322|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|53882|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|54554|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|38416|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.225|17|1900|52715,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|58447|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|36675|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.1|192.168.1.248|17|1900|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.192|192.168.1.248|17|49530|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|57567|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|57481|1900|null|null|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:byebye|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|56145|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|50103,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|42071|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|55241,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|55648,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|1900|1900|null|null|M-SEARCH|null|null|HTTP/1.1|"""ssdp:discover"""|null|ssdp:all|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|54512|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|36438|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|42893|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|34746,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|59576|1900|null|null|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:byebye|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|59636,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|59517,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|33994|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|56909|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|239.255.255.250|17|54878|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|41896,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|53387,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|49498,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|59941|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.192|192.168.1.248|17|37021|1900,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|53677,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|52223,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|42663,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|55531,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|239.255.255.250|17|36438|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::urn:schemas-upnp-org:device:InternetGatewayDevice:1|ssdp:alive|HTTP/1.1|null|urn:schemas-upnp-org:device:InternetGatewayDevice:1|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|33017,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x86dd|fe80:0:0:0:216:6cff:feab:6b88|ff02:0:0:0:0:0:0:c|17|33994|1900|max-age=60|Ubuntu/precise UPnP/1.1 MiniUPnPd/1.7|NOTIFY|uuid:Upnp-BasicDevice-1_0-00166CAB6B88::upnp:rootdevice|ssdp:alive|HTTP/1.1|null|upnp:rootdevice|null|*,,
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|53387,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|57192,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.180|17|1900|3942,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|47188,,|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.248|192.168.1.192|17|1900|46880,,|null|null|null|null|null|null|null|null|null|null

@@ -1,0 +1,4 @@
+srcMac,,, dstMac,,, ethType,,, srcIp,,, dstIp,,, ipProto,,, srcPort,,, dstPort,,,authentication_credential,,,method,,,host,,,request-version,,,uri,,,authentication_type,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.205.153.193,,,6,,,49478,,,80,,,ODg0YWVhMzE2NjlkOjBkY2Y1NWIxOWZmNmZjYWQ1OTY2OWY1MzhhNGI5MDIx,,,POST,,,fw.ring.com,,,HTTP/1.1,,, /doorbots_api/dings?api_version=3,,,Basic,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.205.153.193,,,6,,,58447,,,80,,,ODg0YWVhMzE2NjlkOjBkY2Y1NWIxOWZmNmZjYWQ1OTY2OWY1MzhhNGI5MDIx,,,POST,,,fw.ring.com,,,HTTP/1.1,,, /doorbots_api/dings?api_version=3,,,Basic,,
+null,,,null,,,0x0800,,,192.168.1.221,,,52.5.51.114,,,6,,,53939,,,80,,,ODg0YWVhMzE2NjlkOjBkY2Y1NWIxOWZmNmZjYWQ1OTY2OWY1MzhhNGI5MDIx,,,POST,,,fw.ring.com,,,HTTP/1.1,,, /doorbots_api/dings?api_version=3,,,Basic,,

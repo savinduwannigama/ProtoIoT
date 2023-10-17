@@ -1,0 +1,8 @@
+srcMac| dstMac| ethType| srcIp| dstIp| ipProto| srcPort| dstPort|chaddr|flags|giaddr|opcode|yiaddr|htype|xid|ciaddr|siaddr|ip lease time|sname|hops|hlen,,
+null|null|0x0800|192.168.1.156|192.168.1.1|17|68|67|0024e42028c6|0.0|0.0|2.0|c0a8019c|1.0|970a9b3c|c0a8019c|c0a80101|0000a8c0|0.0|0.0|06,,
+null|null|0x0800|192.168.1.156|192.168.1.1|17|68|67|0024e42028c6|0.0|0.0|2.0|c0a8019c|1.0|3720622.0|c0a8019c|c0a80101|0000a8c0|0.0|0.0|06,,
+null|null|0x0800|0.0.0.0|255.255.255.255|17|68|67,,|null|null|null|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.156|192.168.1.1|17|68|67|0024e42028c6|0.0|0.0|2.0|c0a8019c|1.0|1c69d336|c0a8019c|c0a80101|0000a8c0|0.0|0.0|06,,
+null|null|0x0800|0.0.0.0|255.255.255.255|17|68|67,,|null|null|null|null|null|null|null|null|null|null|null|null|null
+null|null|0x0800|192.168.1.156|192.168.1.1|17|68|67|0024e42028c6|0.0|0.0|2.0|c0a8019c|1.0|85e0780e|c0a8019c|c0a80101|0000a8c0|0.0|0.0|06,,
+null|null|0x0800|0.0.0.0|255.255.255.255|17|68|67,,|null|null|null|null|null|null|null|null|null|null|null|null|null
