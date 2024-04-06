@@ -1,14 +1,14 @@
 {
-  "fpd:info": {
-    "fpd-version": 1,
+  "info": {
+    "version": 1,
     "last-update": "2022-12-01",
-    "fpd-namespace": "fpd:cyamast:dns",
+    "namespace": "unsw:dns",
     "abbreviation": "dns",
     "standard-name": "domain name system",
     "description": "domain name resolve",
     "protocol-url": "https://www.rfc-editor.org/rfc/rfc1035"
   },
-  "fpd:metadata": {
+  "metadata": {
     "ether-types": [
       "0x0800",
       "0x86DD"
@@ -33,12 +33,12 @@
     ],
     "relationship": ["BI_DIRECTION"]
   },
-  "fpd:contents": {
+  "contents": {
     "request": {
       "matchers": [
         {
           "id": 1,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "pattern": "00-ff 00-ff (00|01|02|03|08|09|0a|0b|10|11|12|13) 00-70 00 (01|02) 00 00 00 00 00 00 01-3f",
 			"index": 0
@@ -51,7 +51,7 @@
       "matchers": [
         {
           "id": 1,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "pattern": "00-ff 00-ff (82|84|86|88|8a|8c|8e|92|94|96|98|9a|9c|9e) (00-75|80-f5) 00 01-ff 00 01-ff 00 00-ff 00 00-ff",
 			"index": 0
@@ -62,10 +62,10 @@
     },
     "protocol": "request | response"
   },
-  "fpd:attributes": [
+  "attributes": [
     {
       "name": "transaction id",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "0",
         "to": "2"
@@ -75,7 +75,7 @@
     },
 	{
       "name": "transaction id",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "0",
         "to": "2"
@@ -85,7 +85,7 @@
     },
 	{
       "name": "flags",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "2",
         "to": "4"
@@ -95,7 +95,7 @@
     },
 	{
       "name": "flags",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "2",
         "to": "4"
@@ -105,7 +105,7 @@
     },
 	{
       "name": "Qnumber",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "4",
         "to": "6"
@@ -115,7 +115,7 @@
     },
 	{
       "name": "Qnumber",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "4",
         "to": "6"

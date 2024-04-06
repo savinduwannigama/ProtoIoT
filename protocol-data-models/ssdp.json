@@ -1,14 +1,14 @@
 {
-   "fpd:info":{
-      "fpd-version":1,
+   "info":{
+      "version":1,
       "last-update":"2022-09-26",
-	  "fpd-namespace":"fpd:cyamast:ssdp",
+	   "namespace":"unsw:ssdp",
       "abbreviation":"ssdp",
-	  "standard-name":"simple service discovery protocol",
+	   "standard-name":"simple service discovery protocol",
       "description":"service discovery",
       "protocol-url":"https://datatracker.ietf.org/doc/html/draft-cai-ssdp-v1-03"
    },
-   "fpd:metadata":{
+   "metadata":{
       "ether-types":[
          "0x0800",
          "0x86DD"
@@ -26,12 +26,12 @@
       "content-class":["PLAIN_TEXT"],
       "relationship": ["UNI_DIRECTION","BI_DIRECTION"]
    },
-   "fpd:contents":{
+   "contents":{
       "request":{
          "matchers":[
             {
                "id":1,
-               "matcher-type":"fpd:matcher:regex",
+               "matcher-type":"matcher:regex",
                "matcher-pattern": { 
 			     "pattern": "^NOTIFY\\x20.*?\\x20HTTP\/1\\.1|^M-SEARCH\\x20.*?\\x20HTTP\/1\\.1[\\s\\S]*?ssdp:discover"
 				}
@@ -43,7 +43,7 @@
          "matchers":[
             {
                "id":1,
-               "matcher-type":"fpd:matcher:regex",
+               "matcher-type":"matcher:regex",
                "matcher-pattern": { 
 			     "pattern": "^HTTP/1\\.(1|0) [2|3|4|5]0.*\r\n[\\s\\S]*?ST: "
 				}
@@ -53,11 +53,11 @@
       },
       "protocol":"request | response"
    },
-   "fpd:attributes":
+   "attributes":
       [
          {
             "name":"user-agent",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=((?i)(user-agent: )))(.*?)(?=\\x0d\\x0a)",
 			  "group": 0
@@ -67,7 +67,7 @@
          },
          {
             "name":"method",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "^(M-SEARCH|NOTIFY)",
               "group": 0
@@ -77,7 +77,7 @@
          },
          {
             "name":"uri",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=M-SEARCH )(.*?)(?=\\x20)",
               "group": 0
@@ -87,7 +87,7 @@
          },
 		 {
             "name":"uri",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=NOTIFY )(.*?)(?=\\x20)",
               "group": 0
@@ -97,7 +97,7 @@
          },
          {
             "name":"request version",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "HTTP/(0.9|1.0|1.1)",
               "group": 0
@@ -107,7 +107,7 @@
          },
 		 {
             "name":"server",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=((?i)(server: )))(.*?)(?=\\x0d\\x0a)",
               "group": 0
@@ -117,7 +117,7 @@
          },
          {
             "name":"server",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=((?i)(server: )))(.*?)(?=\\x0d\\x0a)",
               "group": 0
@@ -127,7 +127,7 @@
          },
          {
             "name":"response version",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "HTTP/(0.9|1.0|1.1)",
               "group": 0
@@ -137,7 +137,7 @@
          },
          {
             "name":"status code",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=HTTP\/(0.9|1.0|1.1)\\x20)(.*?)(?=\\x20)",
               "group": 0
@@ -147,7 +147,7 @@
          },
          {
             "name":"response phrase",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=HTTP\/(0.9|1.0|1.1)\\x20[1-5][0-9][0-9]\\x20).*?(?=\\r\\n)",
               "group": 0
@@ -157,7 +157,7 @@
          },
          {
             "name":"search target",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nST: ).*?(?=\\r\\n)",
               "group": 0
@@ -167,7 +167,7 @@
          },
 		 {
             "name":"search target",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nST: ).*?(?=\\r\\n)",
               "group": 0
@@ -177,7 +177,7 @@
          },
          {
             "name":"location",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=LOCATION: ).*?(?=\\r\\n)",
               "group": 0
@@ -187,7 +187,7 @@
          },
 		 {
             "name":"location",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=LOCATION: ).*?(?=\\r\\n)",
               "group": 0
@@ -197,7 +197,7 @@
          },
 		 {
             "name":"cache control",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=CACHE-CONTROL: ).*?(?=\\r\\n)",
               "group": 0
@@ -207,7 +207,7 @@
          },
 		 {
             "name":"cache control",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=CACHE-CONTROL: ).*?(?=\\r\\n)",
               "group": 0
@@ -217,7 +217,7 @@
          },
 		 {
             "name":"search type",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nMAN: ).*?(?=\\r\\n)",
               "group": 0
@@ -227,7 +227,7 @@
          },
 		 {
             "name":"unique service name",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nUSN: ).*?(?=\\r\\n)",
               "group": 0
@@ -237,7 +237,7 @@
          },
 		 {
             "name":"unique service name",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nUSN: ).*?(?=\\r\\n)",
               "group": 0
@@ -247,7 +247,7 @@
          },
 		{
             "name":"notification sub type",
-            "parser-type":"fpd:parser:regex",
+            "parser-type":"parser:regex",
             "parser-pattern": {
 			  "pattern": "(?<=\\r\\nNTS: ).*?(?=\\r\\n)",
               "group": 0
@@ -257,7 +257,7 @@
         },
         {
           "name":"notification type",
-          "parser-type":"fpd:parser:regex",
+          "parser-type":"parser:regex",
           "parser-pattern": {
             "pattern": "(?<=\\r\\nNT: ).*?(?=\\r\\n)",
             "group": 0

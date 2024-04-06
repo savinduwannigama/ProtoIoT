@@ -1,14 +1,14 @@
 {
-  "fpd:info": {
-    "fpd-version": 1,
+  "info": {
+    "version": 1,
     "last-update": "2022-12-01",
-    "fpd-namespace": "fpd:cyamast:dhcp",
+    "namespace": "unsw:dhcp",
     "abbreviation": "dhcp",
     "standard-name": "dynamic host configuration protocol",
     "description": "provides configuration parameters to internet hosts",
     "protocol-url": "https://datatracker.ietf.org/doc/html/rfc2131"
   },
-  "fpd:metadata": {
+  "metadata": {
     "ether-types": [
       "0x0800",
       "0x86DD"
@@ -31,19 +31,19 @@
     ],
     "relationship": ["BI_DIRECTION"]
   },
-  "fpd:contents": {
+  "contents": {
     "request": {
       "matchers": [
         {
           "id": 1,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "pattern": "63 82 53 63"
           }
         },
         {
           "id": 2,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "index": 0,
             "pattern": "01"
@@ -56,14 +56,14 @@
       "matchers": [
         {
           "id": 1,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "pattern": "63 82 53 63"
           }
         },
         {
           "id": 2,
-          "matcher-type": "fpd:matcher:byteseek",
+          "matcher-type": "matcher:byteseek",
           "matcher-pattern": {
             "index": 0,
             "pattern": "02"
@@ -74,10 +74,10 @@
     },
     "protocol": "request | response"
   },
-  "fpd:attributes": [
+  "attributes": [
     {
       "name": "opcode",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "0",
         "to": "1"
@@ -87,7 +87,7 @@
     },
     {
       "name": "opcode",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "0",
         "to": "1"
@@ -97,7 +97,7 @@
     },
     {
       "name": "htype",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "1",
         "to": "2"
@@ -107,7 +107,7 @@
     },
     {
       "name": "htype",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "1",
         "to": "2"
@@ -117,7 +117,7 @@
     },
     {
       "name": "hlen",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "2",
         "to": "3"
@@ -127,7 +127,7 @@
     },
     {
       "name": "hlen",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "2",
         "to": "3"
@@ -137,7 +137,7 @@
     },
     {
       "name": "hops",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "3",
         "to": "4"
@@ -147,7 +147,7 @@
     },
     {
       "name": "hops",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "3",
         "to": "4"
@@ -157,7 +157,7 @@
     },
     {
       "name": "xid",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "4",
         "to": "8"
@@ -167,7 +167,7 @@
     },
     {
       "name": "xid",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "4",
         "to": "8"
@@ -177,7 +177,7 @@
     },
     {
       "name": "secs",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "8",
         "to": "10"
@@ -187,7 +187,7 @@
     },
     {
       "name": "flags",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "10",
         "to": "12"
@@ -197,7 +197,7 @@
     },
     {
       "name": "flags",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "10",
         "to": "12"
@@ -207,7 +207,7 @@
     },
     {
       "name": "ciaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "12",
         "to": "16"
@@ -217,7 +217,7 @@
     },
     {
       "name": "ciaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "12",
         "to": "16"
@@ -227,7 +227,7 @@
     },
     {
       "name": "yiaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "16",
         "to": "20"
@@ -237,7 +237,7 @@
     },
     {
       "name": "yiaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "16",
         "to": "20"
@@ -247,7 +247,7 @@
     },
     {
       "name": "siaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "20",
         "to": "24"
@@ -257,7 +257,7 @@
     },
     {
       "name": "siaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "20",
         "to": "24"
@@ -267,7 +267,7 @@
     },
     {
       "name": "giaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "24",
         "to": "28"
@@ -277,7 +277,7 @@
     },
     {
       "name": "giaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "24",
         "to": "28"
@@ -287,7 +287,7 @@
     },
     {
       "name": "chaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "28",
         "to": "from + $(2)"
@@ -297,7 +297,7 @@
     },
     {
       "name": "chaddr",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "28",
         "to": "from + $(2)"
@@ -307,7 +307,7 @@
     },
     {
       "name": "sname",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "44",
         "to": "108"
@@ -317,7 +317,7 @@
     },
     {
       "name": "sname",
-      "parser-type": "fpd:parser:byteseek:range",
+      "parser-type": "parser:byteseek:range",
       "parser-pattern": {
         "from": "44",
         "to": "108"
@@ -327,7 +327,7 @@
     },
     {
       "name": "host name",
-      "parser-type": "fpd:parser:byteseek:tlv",
+      "parser-type": "parser:byteseek:tlv",
       "parser-pattern": {
         "seek-pattern": "63 82 53 63",
         "tag-pattern" : "0c [00 - 0E]",
@@ -340,7 +340,7 @@
     },
     {
       "name": "vendor class identifier",
-      "parser-type": "fpd:parser:byteseek:tlv",
+      "parser-type": "parser:byteseek:tlv",
       "parser-pattern": {
         "seek-pattern": "63 82 53 63",
         "tag-pattern" : "3c [00 - 0E]",
@@ -353,7 +353,7 @@
     },
     {
       "name": "ip lease time",
-      "parser-type": "fpd:parser:byteseek:tlv",
+      "parser-type": "parser:byteseek:tlv",
       "parser-pattern": {
         "seek-pattern": "63 82 53 63",
         "tag-pattern" : "33 [00 - FF]",
@@ -366,7 +366,7 @@
     },
     {
       "name": "parameter request list",
-      "parser-type": "fpd:parser:byteseek:tlv",
+      "parser-type": "parser:byteseek:tlv",
       "parser-pattern": {
         "seek-pattern": "63 82 53 63",
         "tag-pattern" : "37 [00 - 0A]",
